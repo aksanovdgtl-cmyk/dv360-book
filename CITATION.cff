@@ -6,10 +6,19 @@ authors:
   - family-names: Aksanov
     given-names: Marat
     alias: "Марат Аксанов"
+    orcid: "https://orcid.org/0009-0005-1869-2548"
     website: "https://aksanov.digital/about"
 version: "1.0"
 date-released: 2026-10-06
 license: CC-BY-ND-4.0
+doi: 10.5281/zenodo.23201454
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23201454
+    description: "Version 1.0"
+  - type: doi
+    value: 10.5281/zenodo.23201453
+    description: "All versions"
 url: "https://aksanov.digital/books/dv360"
 repository-code: "https://github.com/aksanovdgtl-cmyk/dv360-book"
 keywords:
@@ -25,10 +34,12 @@ preferred-citation:
     - family-names: Aksanov
       given-names: Marat
       alias: "Марат Аксанов"
+      orcid: "https://orcid.org/0009-0005-1869-2548"
   year: 2026
   edition: "1.0"
   languages:
     - ru
   publisher:
     name: "Aksanov.Digital"
+  doi: 10.5281/zenodo.23201454
   url: "https://aksanov.digital/books/dv360"
