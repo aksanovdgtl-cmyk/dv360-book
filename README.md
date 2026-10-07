@@ -1,10 +1,12 @@
 # Полное руководство по DV360 на русском языке
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23201454.svg)](https://doi.org/10.5281/zenodo.23201454)
+
 ![Обложка книги «Полное руководство по DV360 на русском языке»](cover.png)
 
 Руководство по Display & Video 360 на русском языке. 175 страниц, 18 глав и 5 приложений: от механики аукциона до разбора поломок в работающих кампаниях. Книга бесплатная, скачивание без регистрации и без формы.
 
-Автор: [Марат Аксанов](https://aksanov.digital/about), [Aksanov.Digital](https://aksanov.digital).
+Автор: [Марат Аксанов](https://aksanov.digital/about) ([ORCID 0009-0005-1869-2548](https://orcid.org/0009-0005-1869-2548)), [Aksanov.Digital](https://aksanov.digital).
 
 ## In English
 
@@ -12,7 +14,7 @@ A complete guide to Google Display & Video 360 (DV360) in Russian by Marat Aksan
 
 Free PDF, no registration. Licensed under [CC BY-ND 4.0](LICENSE): share the file freely, but only in full and unmodified.
 
-Download: [aksanov.digital/books/dv360](https://aksanov.digital/books/dv360) or the [latest release](https://github.com/aksanovdgtl-cmyk/dv360-book/releases/latest).
+Download: [aksanov.digital/books/dv360](https://aksanov.digital/books/dv360) or the [latest release](https://github.com/aksanovdgtl-cmyk/dv360-book/releases/latest). Archived copy with a permanent DOI: [10.5281/zenodo.23201454](https://doi.org/10.5281/zenodo.23201454).
 
 ## Скачать
 
@@ -64,6 +66,12 @@ Download: [aksanov.digital/books/dv360](https://aksanov.digital/books/dv360) or 
 Можно и нужно. Пересылайте, выкладывайте у себя, используйте в обучении команды. Единственная просьба - передавать файл целиком и без изменений. Ссылка на первоисточник приветствуется, но не обязательна.
 
 Лицензия: [CC BY-ND 4.0](LICENSE).
+
+## Как цитировать
+
+Аксанов М. Полное руководство по DV360 на русском языке. Версия 1.0. 2026. DOI: [10.5281/zenodo.23201454](https://doi.org/10.5281/zenodo.23201454).
+
+Постоянная копия файла лежит в [Zenodo](https://zenodo.org/records/23201454). Данные для ссылок в формате APA и BibTeX - в [CITATION.cff](CITATION.cff), GitHub показывает их кнопкой «Cite this repository».
 
 ## Ошибки и предложения
 
