@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you cite this book, please use the preferred citation below."
+title: "Полное руководство по DV360 на русском языке"
+abstract: "A complete guide to Google Display & Video 360 (DV360) in Russian. 175 pages, 18 chapters, 5 appendices."
+authors:
+  - family-names: Aksanov
+    given-names: Marat
+    alias: "Марат Аксанов"
+    website: "https://aksanov.digital/about"
+version: "1.0"
+date-released: 2026-10-06
+license: CC-BY-ND-4.0
+url: "https://aksanov.digital/books/dv360"
+repository-code: "https://github.com/aksanovdgtl-cmyk/dv360-book"
+keywords:
+  - DV360
+  - Display & Video 360
+  - programmatic advertising
+  - Google Marketing Platform
+  - media buying
+preferred-citation:
+  type: book
+  title: "Полное руководство по DV360 на русском языке"
+  authors:
+    - family-names: Aksanov
+      given-names: Marat
+      alias: "Марат Аксанов"
+  year: 2026
+  edition: "1.0"
+  languages:
+    - ru
+  publisher:
+    name: "Aksanov.Digital"
+  url: "https://aksanov.digital/books/dv360"

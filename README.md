@@ -6,6 +6,14 @@
 
 Автор: [Марат Аксанов](https://aksanov.digital/about), [Aksanov.Digital](https://aksanov.digital).
 
+## In English
+
+A complete guide to Google Display & Video 360 (DV360) in Russian by Marat Aksanov. 175 pages, 18 chapters and 5 appendices: programmatic auction mechanics, account structure, bidding, targeting, audiences, deals, YouTube and Demand Gen, brand safety, measurement, reporting and troubleshooting live campaigns. 197 annotated diagrams and interface screenshots.
+
+Free PDF, no registration. Licensed under [CC BY-ND 4.0](LICENSE): share the file freely, but only in full and unmodified.
+
+Download: [aksanov.digital/books/dv360](https://aksanov.digital/books/dv360) or the [latest release](https://github.com/aksanovdgtl-cmyk/dv360-book/releases/latest).
+
 ## Скачать
 
 - Страница книги: [aksanov.digital/books/dv360](https://aksanov.digital/books/dv360)
@@ -54,6 +62,8 @@
 ## Можно ли делиться
 
 Можно и нужно. Пересылайте, выкладывайте у себя, используйте в обучении команды. Единственная просьба - передавать файл целиком и без изменений. Ссылка на первоисточник приветствуется, но не обязательна.
+
+Лицензия: [CC BY-ND 4.0](LICENSE).
 
 ## Ошибки и предложения
 
